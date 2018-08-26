@@ -5,6 +5,7 @@
   "dependencies": {
     "git": "^0.1.5",
     "react": "^16.4.2",
+    "react-bootstrap": "^0.32.3",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5"
   },
